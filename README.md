@@ -1,0 +1,1 @@
+# ADNI-PatData-and-Creating-a-Random-Forest-model-for-predicting-Alzheimer-s-status
